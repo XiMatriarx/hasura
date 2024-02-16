@@ -30,7 +30,7 @@ services:
     image: hasura/graphql-engine:v2.37.0
     restart: always
     ports:
-      - 8080:8080
+      - 6000:8080
     environment:
       DATABASE_URL: postgres://postgres:password@database:5432/data
       # HASURA_GRAPHQL_ADMIN_SECRET: secret

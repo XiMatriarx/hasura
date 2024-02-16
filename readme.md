@@ -1,6 +1,6 @@
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Hasura 💕🦄🌈🏰</h1>
 
-<p align="center">A Hasura repository template.</p>
+<p align="center">A Hasura project template.</p>
 
 ## Status
 

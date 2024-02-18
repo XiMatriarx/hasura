@@ -8,8 +8,9 @@ then
 	exit
 fi
 
-git clone https://github.com/XiMatriarx/hasura.git --depth 1 --branch 'v0.0.1'
-mv hasura $project
+git clone https://github.com/XiMatriarx/graphql.git --depth 1 --branch 'v1.0.0'
+mv graphql $project
 cd $project
 rm -Rf .git
 rm -Rf bin
+npm install

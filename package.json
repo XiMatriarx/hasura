@@ -1,7 +1,7 @@
 {
   "name": "@ximatriarx/hasura",
   "version": "1.0.0",
-  "description": "Hasura",
+  "description": "A Hasura project template",
   "keywords": [
     "Xi",
     "Matriarx",

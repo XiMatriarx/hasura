@@ -2,6 +2,8 @@
 
 <p align="center">A Hasura project template.</p>
 
+A minimalistic Hasura project template preconfigured with Hasura, TypeScript, Express, GraphQL, ESLint, Prettier, Jest, Lint-Staged and Husky.
+
 ## Status
 
 <p>
@@ -9,7 +11,7 @@
   <img src="https://github.com/XiMatriarx/hasura/actions/workflows/ci.yml/badge.svg" alt="CI">
   <img src="https://github.com/XiMatriarx/hasura/actions/workflows/cd.yml/badge.svg" alt="CD">
   <img src="https://github.com/XiMatriarx/hasura/actions/workflows/release.yml/badge.svg" alt="Release">
-  <img src="https://img.shields.io/website?url=https://ximatriarx.io&up_message=Up&up_color=800080&down_message=Down&down_color=008080&style=flat&logo=GitHub&label=Website&labelColor=404040" alt="Website">
+  <img src="https://img.shields.io/website?url=https%3A%2F%2Fximatriarx.io&up_message=Up&up_color=800080&down_message=Down&down_color=008080&style=flat&logo=GitHub&label=Website&labelColor=404040" alt="Website">
 </p>
 
 ## Code
@@ -35,9 +37,9 @@
 
 <p>
   <img src="https://img.shields.io/github/issues-raw/XiMatriarx/hasura?style=flat&logo=GitHub&label=Issues&labelColor=404040&color=800080" alt="Issues">
-  <img src="https://img.shields.io/github/issues-closed-raw/XiMatriarx/hasura?style=flat&logo=GitHub&label=Issues Closed&labelColor=404040&color=800080" alt="Issues Closed">
-  <img src="https://img.shields.io/github/issues-pr-raw/XiMatriarx/hasura?style=flat&logo=GitHub&label=Pull Requests&labelColor=404040&color=800080" alt="Pull Requests">
-  <img src="https://img.shields.io/github/issues-pr-closed-raw/XiMatriarx/hasura?label=Pull Requests Closed&labelColor=404040&color=800080" alt="Pull Requests Closed">
+  <img src="https://img.shields.io/github/issues-closed-raw/XiMatriarx/hasura?style=flat&logo=GitHub&label=Issues%20Closed&labelColor=404040&color=800080" alt="Issues Closed">
+  <img src="https://img.shields.io/github/issues-pr-raw/XiMatriarx/hasura?style=flat&logo=GitHub&label=Pull%20Requests&labelColor=404040&color=800080" alt="Pull Requests">
+  <img src="https://img.shields.io/github/issues-pr-closed-raw/XiMatriarx/hasura?label=Pull%20Requests%20Closed&labelColor=404040&color=800080" alt="Pull Requests Closed">
   <img src="https://img.shields.io/github/discussions/XiMatriarx/hasura?style=flat&logo=GitHub&label=Discussions&labelColor=404040&color=800080" alt="Discussions">
 </p>
 
@@ -45,7 +47,7 @@
 
 <p>
   <img src="https://img.shields.io/github/v/release/XiMatriarx/hasura?sort=semver&style=flat&logo=GitHub&label=Release&labelColor=404040&color=800080" alt="Release">
-  <img src="https://img.shields.io/github/release-date/XiMatriarx/hasura?style=flat&logo=GitHub&label=Release Date&labelColor=404040&color=800080" alt="Release Date">
+  <img src="https://img.shields.io/github/release-date/XiMatriarx/hasura?style=flat&logo=GitHub&label=Release%20Date&labelColor=404040&color=800080" alt="Release Date">
   <img src="https://img.shields.io/github/v/tag/XiMatriarx/hasura?sort=semver&style=flat&logo=GitHub&label=Tag&labelColor=404040&color=800080" alt="Tag">
 </p>
 
@@ -63,7 +65,7 @@
 
 <p>
   <img src="https://img.shields.io/github/languages/count/XiMatriarx/hasura?style=flat&logo=GitHub&label=Languages&labelColor=404040&color=800080" alt="Languages">
-  <img src="https://img.shields.io/github/languages/top/XiMatriarx/hasura?style=flat&logo=GitHub&label=Top Language&labelColor=404040&color=800080" alt="Top Language">
+  <img src="https://img.shields.io/github/languages/top/XiMatriarx/hasura?style=flat&logo=GitHub&label=Top%20Language&labelColor=404040&color=800080" alt="Top Language">
 </p>
 
 <p>
@@ -71,33 +73,47 @@
   <img src="https://img.shields.io/github/commit-activity/w/XiMatriarx/hasura?style=flat&logo=GitHub&label=Commits&labelColor=404040&color=800080" alt="Commits (Week)">
   <img src="https://img.shields.io/github/commit-activity/m/XiMatriarx/hasura?style=flat&logo=GitHub&label=Commits&labelColor=404040&color=800080" alt="Commits (Month)">
   <img src="https://img.shields.io/github/commit-activity/y/XiMatriarx/hasura?style=flat&logo=GitHub&label=Commits&labelColor=404040&color=800080" alt="Commits (Year)">
-  <img src="https://img.shields.io/github/commits-since/XiMatriarx/hasura/latest?sort=semver&style=flat&logo=GitHub&label=Release Commits&labelColor=404040&color=800080" alt="Release Commits">
+  <img src="https://img.shields.io/github/commits-since/XiMatriarx/hasura/latest?sort=semver&style=flat&logo=GitHub&label=Release%20Commits&labelColor=404040&color=800080" alt="Release Commits">
 </p>
 
 <p>
   <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/hasura?type=dir&style=flat&logo=GitHub&label=Directories&labelColor=404040&color=800080" alt="Directories">
   <img src="https://img.shields.io/github/directory-file-count/XiMatriarx/hasura?type=file&style=flat&logo=GitHub&label=Files&labelColor=404040&color=800080" alt="Files">
   <img src="https://img.shields.io/github/repo-size/XiMatriarx/hasura?style=flat&logo=GitHub&label=Size&labelColor=404040&color=800080" alt="Size">
-  <img src="https://img.shields.io/github/languages/code-size/XiMatriarx/hasura?style=flat&logo=GitHub&label=Code Size&labelColor=404040&color=800080" alt="Code Size">
+  <img src="https://img.shields.io/github/languages/code-size/XiMatriarx/hasura?style=flat&logo=GitHub&label=Code%20Size&labelColor=404040&color=800080" alt="Code Size">
   <img src="https://img.shields.io/github/downloads/XiMatriarx/hasura/total?style=flat&logo=GitHub&label=Downloads&labelColor=404040&color=800080" alt="Downloads">
 </p>
 
 ## Setup
 
-- Use it as a GitHub repository template.  
-- Clone it using `git clone https://github.com/XiMatriarx/hasura.git`.  
-- Use `bin/init.sh` to create repositories.  
+- `npx @ximatriarx/hasura init`
+- Use it as a GitHub repository template.
+- Clone it using `git clone https://github.com/XiMatriarx/hasura.git`.
+- Use `bin/init.sh` to create projects.
 
 ## Usage
 
-Clone it or run the shell script then delete whatever you don't need.  
+### Hasura
+
+- `docker-compose up -d`
+
+### API
+
+- `npm start` ~ Start the project.
+- `npm run build` ~ Build the project.
+- `npm run dev` ~ Build the project in watch mode.
+- `npm run lint` ~ Lint the codebase using ESLint.
+- `npm run style` ~ Style the codebase using Prettier.
+- `npm test` ~ Test the codebase using Jest.
+- `npm run docker` ~ Build the project using Docker.
+- `npm run init` ~ Initialize git hooks with Husky for Lint-staged.
 
 ## Documentation
 
-- [Code of Conduct](https://github.com/XiMatriarx/hasura/blob/matrix/docs/code_of_conduct.md)
-- [Contributing](https://github.com/XiMatriarx/hasura/blob/matrix/docs/contributing.md)
-- [Security](https://github.com/XiMatriarx/hasura/blob/matrix/docs/security.md)
-- [Support](https://github.com/XiMatriarx/hasura/blob/matrix/docs/support.md)
+- [Code of Conduct](https://github.com/XiMatriarx/.github/blob/matrix/code_of_conduct.md)
+- [Contributing](https://github.com/XiMatriarx/.github/blob/matrix/contributing.md)
+- [Security](https://github.com/XiMatriarx/.github/blob/matrix/security.md)
+- [Support](https://github.com/XiMatriarx/.github/blob/matrix/support.md)
 
 <h1 align="center">✨🧚🏻‍♀️🪄✨ Xi Matriarx 💕🦄🌈🏰</h1>
 
